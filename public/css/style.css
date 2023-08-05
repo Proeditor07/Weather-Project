@@ -391,6 +391,7 @@ p{
    width: auto;
     box-shadow: 0px 8px 6px -6px black;
     margin-bottom: 10px;
+    margin-top: -12%;
   }
   
   .temp_form input[type="text"] {
